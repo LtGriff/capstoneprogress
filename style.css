@@ -41,6 +41,9 @@ body { font-family: sans-serif; }
   box-shadow: 0px 0px 32px -1px rgba(0, 0, 0, 0.9);
 }
 
+.bigtext{
+  text-align: center;
+}
 
 
 
@@ -80,7 +83,7 @@ body { font-family: sans-serif; }
   justify-content: space-between;
   background-color: beige;
   height: 100%;
-  padding: 0px 200px;
+  padding: 100px 200px;
 }
 
 .gallerytwo .picture{
